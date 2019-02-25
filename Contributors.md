@@ -1,6 +1,10 @@
 ## Contributors 
 
-  Krishnadass Narayanan
+
+- Krishnadass Narayanan
+- Andy An
+- Jokim Michael
+- Varinder Singh
 - Adrian Maurer
 - Betim Shahini
-- Jokim Michael
+- Ruban Krishnasamy
