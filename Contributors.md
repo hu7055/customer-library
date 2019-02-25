@@ -1,5 +1,9 @@
 ## Contributors 
+
+- Karim Dewsi
 - Ruban Krishnasamy
+- Azzam Rahman
+- William Lucht
 - Elham Emami
 - Krishnadass Narayanan
 - Andy An
